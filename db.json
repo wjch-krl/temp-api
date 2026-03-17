@@ -1,8 +1,8 @@
 {
-  "images1": [
+  "images": [
     [
       {
-        "albumId": 2,
+        "album": 2,
         "id": 0,
         "title": "reprehenderit est deserunt velit ipsam",
         "path": "https://via.placeholder.com/771796"
