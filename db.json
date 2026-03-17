@@ -1,5 +1,5 @@
 {
-  "images": [
+  "images": 
     [
 [
 {
@@ -39,7 +39,7 @@
 "path": "https://via.placeholder.com/600/ff7890"
 }
 ]
-]
+
   ],
   "profile": {
     "name": "typicode"
