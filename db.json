@@ -1,5 +1,5 @@
 {
-  "images":[
+  "images":[[
       {
         "albumId": 2,
         "id": 0,
@@ -36,7 +36,7 @@
         "title": "beatae et provident et ut vel",
         "path": "https://via.placeholder.com/600/ff7890"
       }
-  ],
+  ]],
   "profile": {
     "name": "typicode"
   }
